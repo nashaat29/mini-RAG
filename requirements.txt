@@ -1,0 +1,7 @@
+Python==3.9.23
+genai==0.8.5
+python-dotenv==1.1.1
+
+fastapi==0.110.2
+uvicorn[standard]==0.29.0
+python-multipart==0.0.9
