@@ -33,3 +33,9 @@ $ cp .env.example .env
 ```
 
 Set your environment variables in the `.env` file. Like `GEMINI_API_KEY` value.
+
+## Run FastAPI server
+
+```bash
+$ uvicorn app:app --reload --host 127.0.0.1 --port 8000
+```
